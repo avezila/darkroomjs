@@ -80,7 +80,7 @@ gulp.task('scripts', function () {
     srcDir + '/js/plugins/darkroom.upload.js',
     srcDir + '/js/plugins/darkroom.history.js',
     srcDir + '/js/plugins/darkroom.brightness.js',
-    //srcDir + '/js/plugins/darkroom.invert.js',
+    srcDir + '/js/plugins/darkroom.invert.js',
     srcDir + '/js/plugins/darkroom.rotate.js',
     srcDir + '/js/plugins/darkroom.crop.js',
     srcDir + '/js/plugins/darkroom.save.js'
