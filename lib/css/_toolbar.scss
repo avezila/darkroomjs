@@ -65,7 +65,7 @@
   }
 
   &:disabled .darkroom-icon {
-    fill: #666;
+    fill: #666 !important;
   }
   &:disabled:hover {
     cursor: default;
@@ -86,6 +86,9 @@
   }
   &.darkroom-button-danger .darkroom-icon {
     fill: #FF4444;
+  }
+  &.darkroom-button-submit .darkroom-icon{
+    fill: #33b5e5;
   }
 }
 
