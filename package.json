@@ -9,7 +9,9 @@
     "url": "https://github.com/mattketmo/darkroomjs.git"
   },
   "author": "Matthieu Moquet <matthieu@moquet.net> (http://moquet.net/)",
-  "dependencies": {},
+  "dependencies": {
+    "node-sass": "^3.7.0"
+  },
   "devDependencies": {
     "gulp": "^3.9.0",
     "gulp-concat": "^2.6.0",
